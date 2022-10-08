@@ -111,7 +111,7 @@ they are specific purpose devices like
 - wearables
 - TVs
 - etc......
-they can communicate through wifi ,nfc ,bluetooth , etc....
+	they can communicate through wifi ,nfc ,bluetooth , etc....
 consumer, enterprise and industrial devices exist and they are highly specialized
 
 
@@ -130,19 +130,19 @@ we usually use "hex" to describe it.
 its a base 16 system that uses **0** though **9** and letters **A** though **F** to reach 15
 
 ## data types 
-### char
-- ASCII
-#### UNICODE
-- utf-8
-- utf-16
-- utf-32
+- char
+	- ASCII
+- UNICODE
+	- utf-8
+	- utf-16
+	- utf-32
 
 - string
 - integers (int)
 - floats
 - boolean (bool)
 
-# computer's speed
+# 5 computer's speed
 ## processor's speed
 they are measured in hertz.
 but today that wont keep up so we use gigahertz (GHz)
@@ -175,5 +175,83 @@ we all know the famous windows "blue screen" that can be triggered by your devic
 - Mbps | mb/s 
 - Gbps | gb/s
 - Tbps | tb/s
+# 6 computer components (hardware)
+### cpu
+its like the brain it does all the math and gives instructions to the other components
+### motherboard
+its the heart of the computer that connects everything together
+### ram 
+its the short term memory its fast but if it losses power every thing on it gets wiped 
+### hard drive
+its the long term memory of the computer it can store data even when power is lost
+## peripherals
+they are the outside hands the helpers as you might say you can be input devices or an output device like
+- mouse 
+- keyboard
+- printer 
+- monitor
+- etc...
+	they use connectors or plugs as some might call that connects to a port in the computer 
+### output devices 
+they are the way that the computer talks to us like 
+- monitors 
+- speakers
+- projectors
+- etc...
+#### printers
+- laser
+- inkjet
+- thermal
+	some printers can connect to networks and be used from the network
+#### scanners 
+converts anything you scan to a digital image format
+#### fax
+is just a scanner and a printer that can send and receive massages from other faxes 
+### input devices 
+they are the way we talk to the computer or the way it listens to us like
+- keyboard
+- mouse
+- touchpad
+- camera
+- joystick
+- pointing device
+### hard drives
+they store data in form of bits or bytes for latter use 
+#### read only memory
+or as called "ROM", it can only be read and is used to boot up the computer and it can retain data when power is lost
+#### random access memory
+"RAM"
+it is volatile, that means if it losses power it wont retain its data
+#### hard drives/disks
+they store data using magnetism 
+there exists some types like 
+- sata
+- pata
+### optical drives 
+they use lasers to burn into the disk to make highs and lows and they have some types like
+- CD-ROM
+- CD-RW
+- DVD-ROM
+- DVD-RW
+- Blu-ray
+	 they are read by a laser
+### solid state drive
+"SSD" it stores data in the form of electrons which eliminates the mechanical parts of the hard drives allowing them to be super fast
+#### flash drives 
+they are the fanciness of an ssd with a usb interface 
+they are small and light hints the name "thumb drive"
+#### memory cards
+they are smaller than a thumb drives and are used in their cases
 
-ss
+### display device 
+its the way the computer shows us something like and image or a video or text and there are types of display devices 
+- crt
+- lcd
+- tft
+- projectors 
+### audio device
+they are the mouth of the computer they allow the computer to produce sound
+they connect to the sound card that is most of the time backed into the motherboard
+#### headphones
+they are the way your phone can talk to you privately without anyone hearing 
+they most of the time use 3.5mm jack
